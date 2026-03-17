@@ -24,3 +24,6 @@ Data Processing: pandas, numpy, category_encoders (BinaryEncoder)<br>
 
 Results<br>
 The final XGBoost classifier achieved the most viable balance between predictive performance (highest ROC-AUC) and ethical compliance (low Demographic Parity difference). By integrating SHAP and LIME, the pipeline ensures that every automated decision can be mathematically explained both to regulators and to the individual customer.
+**LIME output**
+<img width="1510" height="479" alt="Screenshot (602)" src="https://github.com/user-attachments/assets/c652bc1d-c33d-4a24-b80e-670425306c5f" />
+
